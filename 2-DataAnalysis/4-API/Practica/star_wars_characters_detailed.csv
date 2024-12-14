@@ -1,0 +1,83 @@
+id,name,height,mass,hair_color,skin_color,eye_color,birth_year,gender,homeworld,species,films
+1,Luke Skywalker,172,77,blond,fair,blue,19BBY,male,Tatooine,Human,"['A New Hope', 'The Empire Strikes Back', 'Return of the Jedi', 'Revenge of the Sith']"
+2,C-3PO,167,75,n/a,gold,yellow,112BBY,n/a,Tatooine,Droid,"['A New Hope', 'The Empire Strikes Back', 'Return of the Jedi', 'The Phantom Menace', 'Attack of the Clones', 'Revenge of the Sith']"
+3,R2-D2,96,32,n/a,"white, blue",red,33BBY,n/a,Naboo,Droid,"['A New Hope', 'The Empire Strikes Back', 'Return of the Jedi', 'The Phantom Menace', 'Attack of the Clones', 'Revenge of the Sith']"
+4,Darth Vader,202,136,none,white,yellow,41.9BBY,male,Tatooine,Human,"['A New Hope', 'The Empire Strikes Back', 'Return of the Jedi', 'Revenge of the Sith']"
+5,Leia Organa,150,49,brown,light,brown,19BBY,female,Alderaan,Human,"['A New Hope', 'The Empire Strikes Back', 'Return of the Jedi', 'Revenge of the Sith']"
+6,Owen Lars,178,120,"brown, grey",light,blue,52BBY,male,Tatooine,Human,"['A New Hope', 'Attack of the Clones', 'Revenge of the Sith']"
+7,Beru Whitesun lars,165,75,brown,light,blue,47BBY,female,Tatooine,Human,"['A New Hope', 'Attack of the Clones', 'Revenge of the Sith']"
+8,R5-D4,97,32,n/a,"white, red",red,unknown,n/a,Tatooine,Droid,['A New Hope']
+9,Biggs Darklighter,183,84,black,light,brown,24BBY,male,Tatooine,Human,['A New Hope']
+10,Obi-Wan Kenobi,182,77,"auburn, white",fair,blue-gray,57BBY,male,Stewjon,Human,"['A New Hope', 'The Empire Strikes Back', 'Return of the Jedi', 'The Phantom Menace', 'Attack of the Clones', 'Revenge of the Sith']"
+11,Anakin Skywalker,188,84,blond,fair,blue,41.9BBY,male,Tatooine,Human,"['The Phantom Menace', 'Attack of the Clones', 'Revenge of the Sith']"
+12,Wilhuff Tarkin,180,unknown,"auburn, grey",fair,blue,64BBY,male,Eriadu,Human,"['A New Hope', 'Revenge of the Sith']"
+13,Chewbacca,228,112,brown,unknown,blue,200BBY,male,Kashyyyk,Wookie,"['A New Hope', 'The Empire Strikes Back', 'Return of the Jedi', 'Revenge of the Sith']"
+14,Han Solo,180,80,brown,fair,brown,29BBY,male,Corellia,Human,"['A New Hope', 'The Empire Strikes Back', 'Return of the Jedi']"
+15,Greedo,173,74,n/a,green,black,44BBY,male,Rodia,Rodian,['A New Hope']
+16,Jabba Desilijic Tiure,175,"1,358",n/a,"green-tan, brown",orange,600BBY,hermaphrodite,Nal Hutta,Hutt,"['A New Hope', 'Return of the Jedi', 'The Phantom Menace']"
+17,Wedge Antilles,170,77,brown,fair,hazel,21BBY,male,Corellia,Human,"['A New Hope', 'The Empire Strikes Back', 'Return of the Jedi']"
+18,Jek Tono Porkins,180,110,brown,fair,blue,unknown,male,Bestine IV,Human,['A New Hope']
+19,Yoda,66,17,white,green,brown,896BBY,male,unknown,Yoda's species,"['The Empire Strikes Back', 'Return of the Jedi', 'The Phantom Menace', 'Attack of the Clones', 'Revenge of the Sith']"
+20,Palpatine,170,75,grey,pale,yellow,82BBY,male,Naboo,Human,"['The Empire Strikes Back', 'Return of the Jedi', 'The Phantom Menace', 'Attack of the Clones', 'Revenge of the Sith']"
+21,Boba Fett,183,78.2,black,fair,brown,31.5BBY,male,Kamino,Human,"['The Empire Strikes Back', 'Return of the Jedi', 'Attack of the Clones']"
+22,IG-88,200,140,none,metal,red,15BBY,none,unknown,Droid,['The Empire Strikes Back']
+23,Bossk,190,113,none,green,red,53BBY,male,Trandosha,Trandoshan,['The Empire Strikes Back']
+24,Lando Calrissian,177,79,black,dark,brown,31BBY,male,Socorro,Human,"['The Empire Strikes Back', 'Return of the Jedi']"
+25,Lobot,175,79,none,light,blue,37BBY,male,Bespin,Human,['The Empire Strikes Back']
+26,Ackbar,180,83,none,brown mottle,orange,41BBY,male,Mon Cala,Mon Calamari,['Return of the Jedi']
+27,Mon Mothma,150,unknown,auburn,fair,blue,48BBY,female,Chandrila,Human,['Return of the Jedi']
+28,Arvel Crynyd,unknown,unknown,brown,fair,brown,unknown,male,unknown,Human,['Return of the Jedi']
+29,Wicket Systri Warrick,88,20,brown,brown,brown,8BBY,male,Endor,Ewok,['Return of the Jedi']
+30,Nien Nunb,160,68,none,grey,black,unknown,male,Sullust,Sullustan,['Return of the Jedi']
+31,Qui-Gon Jinn,193,89,brown,fair,blue,92BBY,male,unknown,Human,['The Phantom Menace']
+32,Nute Gunray,191,90,none,mottled green,red,unknown,male,Cato Neimoidia,Neimodian,"['The Phantom Menace', 'Attack of the Clones', 'Revenge of the Sith']"
+33,Finis Valorum,170,unknown,blond,fair,blue,91BBY,male,Coruscant,Human,['The Phantom Menace']
+34,Padmé Amidala,185,45,brown,light,brown,46BBY,female,Naboo,Human,"['The Phantom Menace', 'Attack of the Clones', 'Revenge of the Sith']"
+35,Jar Jar Binks,196,66,none,orange,orange,52BBY,male,Naboo,Gungan,"['The Phantom Menace', 'Attack of the Clones']"
+36,Roos Tarpals,224,82,none,grey,orange,unknown,male,Naboo,Gungan,['The Phantom Menace']
+37,Rugor Nass,206,unknown,none,green,orange,unknown,male,Naboo,Gungan,['The Phantom Menace']
+38,Ric Olié,183,unknown,brown,fair,blue,unknown,male,Naboo,Human,['The Phantom Menace']
+39,Watto,137,unknown,black,"blue, grey",yellow,unknown,male,Toydaria,Toydarian,"['The Phantom Menace', 'Attack of the Clones']"
+40,Sebulba,112,40,none,"grey, red",orange,unknown,male,Malastare,Dug,['The Phantom Menace']
+41,Quarsh Panaka,183,unknown,black,dark,brown,62BBY,male,Naboo,Human,['The Phantom Menace']
+42,Shmi Skywalker,163,unknown,black,fair,brown,72BBY,female,Tatooine,Human,"['The Phantom Menace', 'Attack of the Clones']"
+43,Darth Maul,175,80,none,red,yellow,54BBY,male,Dathomir,Zabrak,['The Phantom Menace']
+44,Bib Fortuna,180,unknown,none,pale,pink,unknown,male,Ryloth,Twi'lek,['Return of the Jedi']
+45,Ayla Secura,178,55,none,blue,hazel,48BBY,female,Ryloth,Twi'lek,"['The Phantom Menace', 'Attack of the Clones', 'Revenge of the Sith']"
+46,Ratts Tyerel,79,15,none,"grey, blue",unknown,unknown,male,Aleen Minor,Aleena,['The Phantom Menace']
+47,Dud Bolt,94,45,none,"blue, grey",yellow,unknown,male,Vulpter,Vulptereen,['The Phantom Menace']
+48,Gasgano,122,unknown,none,"white, blue",black,unknown,male,Troiken,Xexto,['The Phantom Menace']
+49,Ben Quadinaros,163,65,none,"grey, green, yellow",orange,unknown,male,Tund,Toong,['The Phantom Menace']
+50,Mace Windu,188,84,none,dark,brown,72BBY,male,Haruun Kal,Human,"['The Phantom Menace', 'Attack of the Clones', 'Revenge of the Sith']"
+51,Ki-Adi-Mundi,198,82,white,pale,yellow,92BBY,male,Cerea,Cerean,"['The Phantom Menace', 'Attack of the Clones', 'Revenge of the Sith']"
+52,Kit Fisto,196,87,none,green,black,unknown,male,Glee Anselm,Nautolan,"['The Phantom Menace', 'Attack of the Clones', 'Revenge of the Sith']"
+53,Eeth Koth,171,unknown,black,brown,brown,unknown,male,Iridonia,Zabrak,"['The Phantom Menace', 'Revenge of the Sith']"
+54,Adi Gallia,184,50,none,dark,blue,unknown,female,Coruscant,Tholothian,"['The Phantom Menace', 'Revenge of the Sith']"
+55,Saesee Tiin,188,unknown,none,pale,orange,unknown,male,Iktotch,Iktotchi,"['The Phantom Menace', 'Revenge of the Sith']"
+56,Yarael Poof,264,unknown,none,white,yellow,unknown,male,Quermia,Quermian,['The Phantom Menace']
+57,Plo Koon,188,80,none,orange,black,22BBY,male,Dorin,Kel Dor,"['The Phantom Menace', 'Attack of the Clones', 'Revenge of the Sith']"
+58,Mas Amedda,196,unknown,none,blue,blue,unknown,male,Champala,Chagrian,"['The Phantom Menace', 'Attack of the Clones']"
+59,Gregar Typho,185,85,black,dark,brown,unknown,male,Naboo,Human,['Attack of the Clones']
+60,Cordé,157,unknown,brown,light,brown,unknown,female,Naboo,Human,['Attack of the Clones']
+61,Cliegg Lars,183,unknown,brown,fair,blue,82BBY,male,Tatooine,Human,['Attack of the Clones']
+62,Poggle the Lesser,183,80,none,green,yellow,unknown,male,Geonosis,Geonosian,"['Attack of the Clones', 'Revenge of the Sith']"
+63,Luminara Unduli,170,56.2,black,yellow,blue,58BBY,female,Mirial,Mirialan,"['Attack of the Clones', 'Revenge of the Sith']"
+64,Barriss Offee,166,50,black,yellow,blue,40BBY,female,Mirial,Mirialan,['Attack of the Clones']
+65,Dormé,165,unknown,brown,light,brown,unknown,female,Naboo,Human,['Attack of the Clones']
+66,Dooku,193,80,white,fair,brown,102BBY,male,Serenno,Human,"['Attack of the Clones', 'Revenge of the Sith']"
+67,Bail Prestor Organa,191,unknown,black,tan,brown,67BBY,male,Alderaan,Human,"['Attack of the Clones', 'Revenge of the Sith']"
+68,Jango Fett,183,79,black,tan,brown,66BBY,male,Concord Dawn,Human,['Attack of the Clones']
+69,Zam Wesell,168,55,blonde,"fair, green, yellow",yellow,unknown,female,Zolan,Clawdite,['Attack of the Clones']
+70,Dexter Jettster,198,102,none,brown,yellow,unknown,male,Ojom,Besalisk,['Attack of the Clones']
+71,Lama Su,229,88,none,grey,black,unknown,male,Kamino,Kaminoan,['Attack of the Clones']
+72,Taun We,213,unknown,none,grey,black,unknown,female,Kamino,Kaminoan,['Attack of the Clones']
+73,Jocasta Nu,167,unknown,white,fair,blue,unknown,female,Coruscant,Human,['Attack of the Clones']
+74,R4-P17,96,unknown,none,"silver, red","red, blue",unknown,female,unknown,Human,"['Attack of the Clones', 'Revenge of the Sith']"
+75,Wat Tambor,193,48,none,"green, grey",unknown,unknown,male,Skako,Skakoan,['Attack of the Clones']
+76,San Hill,191,unknown,none,grey,gold,unknown,male,Muunilinst,Muun,['Attack of the Clones']
+77,Shaak Ti,178,57,none,"red, blue, white",black,unknown,female,Shili,Togruta,"['Attack of the Clones', 'Revenge of the Sith']"
+78,Grievous,216,159,none,"brown, white","green, yellow",unknown,male,Kalee,Kaleesh,['Revenge of the Sith']
+79,Tarfful,234,136,brown,brown,blue,unknown,male,Kashyyyk,Wookie,['Revenge of the Sith']
+80,Raymus Antilles,188,79,brown,light,brown,unknown,male,Alderaan,Human,"['A New Hope', 'Revenge of the Sith']"
+81,Sly Moore,178,48,none,pale,white,unknown,female,Umbara,Human,"['Attack of the Clones', 'Revenge of the Sith']"
+82,Tion Medon,206,80,none,grey,black,unknown,male,Utapau,Pau'an,['Revenge of the Sith']
