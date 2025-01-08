@@ -38,6 +38,7 @@ cufflinks = "^0.17.3"
 wordcloud = "^1.9.4"
 nltk = "^3.9.1"
 missingno = "^0.5.2"
+psycopg2 = "^2.9.10"
 
 
 [build-system]
