@@ -32,6 +32,7 @@
 4. Limpieza general de datos
 
 ## 4. Feature Engineering
+
 1. Selección inicial de características:
    - Análisis de correlaciones
    - Importancia de variables
