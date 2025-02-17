@@ -39,9 +39,9 @@ psycopg2 = "^2.9.10"
 orjson = "^3.10.14"
 scikit-optimize = "^0.10.2"
 optuna = "^4.2.0"
-numpy = "^2.2.2"
 seaborn = "^0.13.2"
 matplotlib = "^3.10.0"
+skforecast = "^0.14.0"
 
 
 [build-system]
