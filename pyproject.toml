@@ -43,6 +43,7 @@ seaborn = "^0.13.2"
 matplotlib = "^3.10.0"
 skforecast = "^0.14.0"
 shap = "^0.46.0"
+imbalanced-learn = "^0.13.0"
 
 
 [build-system]
