@@ -168,6 +168,11 @@ Prof/
 *.DS_Store
 .DS_Store/
 Dataset/
+<<<<<<< HEAD
 Trabajo/
 EDA_ENERO/
 *.python-version
+=======
+*.python-version
+housing_tuning/
+>>>>>>> upstream/main
