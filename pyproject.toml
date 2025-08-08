@@ -43,6 +43,7 @@ pytest-cov = "^6.1.0"
 pyspark = "^3.5.5"
 fastapi = "^0.115.12"
 uvicorn = "^0.34.2"
+streamlit = "^1.45.0"
 
 
 [build-system]
